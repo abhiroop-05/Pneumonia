@@ -120,7 +120,7 @@ pip freeze > requirements.txt
 ## 🙋‍♂️ Author
 
 Developed by **Abhiroop Pamula**  
-🔗 [LinkedIn](https://www.linkedin.com/) | ✉️ abhiroop@email.com
+🔗 [LinkedIn](https://www.linkedin.com/) | ✉️ abhirooppamula@gmail.com
 
 ---
 
