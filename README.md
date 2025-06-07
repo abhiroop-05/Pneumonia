@@ -45,7 +45,6 @@ Pneumonia is a serious lung infection that requires timely detection for effecti
 
 - 🖼️ Drag & drop or select multiple X-ray images
 - 📊 Real-time probability charts for Normal vs Pneumonia
-- 🌙 Dark mode toggle for user comfort
 - 📱 Fully responsive UI using Tailwind CSS
 - 📚 Educational info section on pneumonia
 - 🔗 Easily shareable public web link (after deployment)
