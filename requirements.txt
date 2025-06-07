@@ -3,3 +3,4 @@ gunicorn
 tensorflow
 numpy
 pillow
+tensorflow-cpu==2.14.0
